@@ -11,7 +11,10 @@
     "express": "~4.16.1",
     "html-to-text": "^9.0.3",
     "http-errors": "~1.6.3",
+    "languagedetect": "^2.0.0",
+    "mongodb": "^4.13.0",
     "morgan": "~1.9.1",
-    "twig": "~0.10.3"
+    "twig": "~0.10.3",
+    "url-parse": "^1.5.10"
   }
 }
