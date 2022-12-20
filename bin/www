@@ -5,7 +5,7 @@
  */
 
 var app = require('../app');
-var debug = require('debug')('tetramind-search-engine:server');
+var debug = require('debug')('amelia:server');
 var http = require('http');
 
 /**
